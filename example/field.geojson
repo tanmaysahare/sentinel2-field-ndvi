@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Example: 1-hectare square near Katol, Nagpur district, India",
+    "note": "A 100 m x 100 m square around the published location of the VarshaKrishi open-data field. It is not that field's boundary, which is withheld to protect the landholder's privacy."
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       78.547518,
+       21.272551
+      ],
+      [
+       78.548482,
+       21.272551
+      ],
+      [
+       78.548482,
+       21.273449
+      ],
+      [
+       78.547518,
+       21.273449
+      ],
+      [
+       78.547518,
+       21.272551
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}
