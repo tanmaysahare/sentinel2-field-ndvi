@@ -2,6 +2,8 @@
 
 **A 12-month NDVI time series for one farm field, read straight from the Sentinel-2 L2A Cloud-Optimized GeoTIFFs on AWS, with a field-level cloud verdict for every pass.**
 
+> Listed as a tutorial in the usage examples for the [Sentinel-2 L2A COGs dataset on the Registry of Open Data on AWS](https://registry.opendata.aws/sentinel-2-l2a-cogs/) ([awslabs/open-data-registry#3419](https://github.com/awslabs/open-data-registry/pull/3419)).
+
 Sentinel-2 photographs every field on Earth every few days, and the [Sentinel-2 L2A COGs on the Registry of Open Data on AWS](https://registry.opendata.aws/sentinel-2-l2a-cogs/) make it free to read. For a smallholder field of a hectare or two you need about a hundred 10 m pixels per pass, not whole scenes, and an honest answer to one question: *could the satellite actually see this field today?*
 
 This repository shows how, in one short Python file ([`field_ndvi.py`](field_ndvi.py)) and a notebook with real outputs ([`field_ndvi_tutorial.ipynb`](field_ndvi_tutorial.ipynb)):
