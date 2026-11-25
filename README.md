@@ -17,6 +17,8 @@ This repository shows how, in one short Python file ([`field_ndvi.py`](field_ndv
 
 It is the method behind the open dataset at **[varshakrishi.com/open-data](https://www.varshakrishi.com/open-data)**: a year of NDVI for one field near Katol, Nagpur district, India (CC BY 4.0).
 
+**No Python?** [See your field from space](https://www.varshakrishi.com/tools/see-your-field) is a browser version for any point in India: the newest clear Sentinel-2 picture, an NDVI map and 12 months of NDVI for that spot, with no sign-up.
+
 ## Run it
 
 ```bash
